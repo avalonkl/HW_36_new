@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="424" started-at="2020-04-21T12:05:01 PDT" finished-at="2020-04-21T12:05:02 PDT">
+  <suite name="Default suite" duration-ms="372" started-at="2020-04-21T17:18:29 PDT" finished-at="2020-04-21T17:18:29 PDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="424" started-at="2020-04-21T12:05:01 PDT" finished-at="2020-04-21T12:05:02 PDT">
+    <test name="Default test" duration-ms="372" started-at="2020-04-21T17:18:29 PDT" finished-at="2020-04-21T17:18:29 PDT">
       <class name="core.PrimeNumberCheckerTest">
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="83" started-at="2020-04-21T12:05:01 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:01 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="80" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -28,7 +28,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="2" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="4" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="5" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="3" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -70,7 +70,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="4" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="3" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -91,7 +91,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="3" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="3" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -112,7 +112,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="3" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="3" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -133,7 +133,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="2" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="3" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -154,7 +154,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="2" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="3" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -175,7 +175,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="5" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="4" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
@@ -196,7 +196,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@72bd06ca]" name="test" duration-ms="3" started-at="2020-04-21T12:05:02 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T12:05:02 PDT">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@35e6861]" name="test" duration-ms="3" started-at="2020-04-21T17:18:29 PDT" data-provider="Prime Numbers" finished-at="2020-04-21T17:18:29 PDT">
           <params>
             <param index="0">
               <value>
